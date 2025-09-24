@@ -1,0 +1,17 @@
+# Arquivo .gitignore para projetos .NET
+
+## Pastas de Compilação e Cache do Visual Studio
+[Bb]in/
+[Oo]bj/
+.vs/
+
+## Arquivos de Configuração do Usuário
+*.user
+*.suo
+
+## Arquivos de Segredos (nunca suba segredos para o repositório)
+appsettings.Development.json
+
+## Outros
+*.nupkg
+*.DS_Store

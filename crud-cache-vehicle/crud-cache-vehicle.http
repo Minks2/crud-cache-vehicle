@@ -1,0 +1,6 @@
+@crud_cache_vehicle_HostAddress = http://localhost:5296
+
+GET {{crud_cache_vehicle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
